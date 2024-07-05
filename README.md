@@ -1,7 +1,7 @@
 # HackathonVPBank
 In this challenge, we analyzed the current customers and developed a model to classify future customers
 [View Local PDF](VPBank_Hackathon_CLV_Team106.pdf)
-#### Some statistics for each type of customer used AWS Quickshift
+#### Some statistics for each type of customer used AWS QuickSight
 ![Overview](anh2.png)
-#### Number of each type of customer AWS Quickshift
+#### Number of each type of customer AWS QuickSight
 ![Overview](anh1.png)
