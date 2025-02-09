@@ -1,7 +1,10 @@
 # Hackathon VPBank 🚀
 
-In this project, we leveraged machine learning techniques to classify customer profiles and predict **Customer Lifetime Value (CLV)**.  
-[🔗 View PDF](VPBank_Hackathon_CLV_Team106.pdf)
+In this project, we leveraged machine learning techniques to classify customer profiles and predict **Customer Lifetime Value (CLV)**.
+
+<div align="center">
+  <a href="./images/VPBank_Hackathon_CLV_Team106.pdf" style="font-size: 18px; font-weight: bold;">🔗 View PDF</a>
+</div>
 
 ---
 
