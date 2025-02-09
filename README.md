@@ -40,15 +40,15 @@ For more detailed insights, please refer to the accompanying `.ipynb` files.
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <figure style="margin-bottom: 20px;">
-    <img src="./images/Kmean.png" alt="K-means Clustering" style="width: 90%;">
+    <img src="./images/Kmean.png" alt="K-means Clustering" style="width: 100%;">
     <figcaption align="center"><strong>K-means Clustering</strong> 🤖</figcaption>
   </figure>
   <figure style="margin-bottom: 20px;">
-    <img src="./images/model.png" alt="Model Predictions" style="width: 90%;">
+    <img src="./images/model.png" alt="Model Predictions" style="width: 100%;">
     <figcaption align="center"><strong>Model Predictions</strong> 📈</figcaption>
   </figure>
   <figure style="margin-bottom: 20px;">
-    <img src="./images/anh3.png" alt="Customer Segmentation Analysis" style="width: 90%;">
+    <img src="./images/anh3.png" alt="Customer Segmentation Analysis" style="width: 100%;">
     <figcaption align="center"><strong>Customer Segmentation Analysis</strong> 🔍</figcaption>
   </figure>
 </div>
