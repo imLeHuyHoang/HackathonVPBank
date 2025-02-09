@@ -1,7 +1,51 @@
-# HackathonVPBank
-In this challenge, we analyzed the current customers and developed a model to classify future customers
-[View Local PDF](VPBank_Hackathon_CLV_Team106.pdf)
-#### Some statistics for each type of customer used AWS QuickSight
-![Overview](anh2.png)
-#### Number of each type of customer AWS QuickSight
-![Overview](anh1.png)
+# Hackathon VPBank 🚀
+
+In this project, we leveraged machine learning techniques to classify customer profiles and predict **Customer Lifetime Value (CLV)**.  
+[🔗 View PDF](VPBank_Hackathon_CLV_Team106.pdf)
+
+---
+
+## Technologies Used 🛠
+
+- **AWS SageMaker**
+- **AWS QuickSight**
+
+---
+
+## Customer Statistics with AWS QuickSight 📊
+
+<div align="center">
+  <img src="./images/anh2.png" alt="Customer Statistics Overview" style="width: 90%;">
+</div>
+
+---
+
+## Number of Customers by Type via AWS QuickSight 📈
+
+<div align="center">
+  <img src="./images/anh1.png" alt="Customer Count Overview" style="width: 90%;">
+</div>
+
+> **Note:**  
+> The source code provided here documents only the steps taken during the project development and includes some results captured at that time. The database is not included due to data security considerations.
+
+---
+
+## Demo Screenshots 🎥
+
+For more detailed insights, please refer to the accompanying `.ipynb` files.
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <figure style="margin-bottom: 20px;">
+    <img src="./images/Kmean.png" alt="K-means Clustering" style="width: 90%;">
+    <figcaption align="center"><strong>K-means Clustering</strong> 🤖</figcaption>
+  </figure>
+  <figure style="margin-bottom: 20px;">
+    <img src="./images/model.png" alt="Model Predictions" style="width: 90%;">
+    <figcaption align="center"><strong>Model Predictions</strong> 📈</figcaption>
+  </figure>
+  <figure style="margin-bottom: 20px;">
+    <img src="./images/anh3.png" alt="Customer Segmentation Analysis" style="width: 90%;">
+    <figcaption align="center"><strong>Customer Segmentation Analysis</strong> 🔍</figcaption>
+  </figure>
+</div>
